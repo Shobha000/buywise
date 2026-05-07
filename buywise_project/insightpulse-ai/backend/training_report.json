@@ -1,0 +1,19 @@
+{
+  "dataset": "kritanjalijain/amazon-reviews",
+  "model": "LinearSVC",
+  "metrics": {
+    "LinearSVC": {
+      "accuracy": 0.9997,
+      "f1": 0.9996,
+      "auc": 1.0
+    },
+    "SGDClassifier": {
+      "accuracy": 0.9679,
+      "f1": 0.983,
+      "auc": 0.8931
+    }
+  },
+  "feature_dim": 8008,
+  "test_samples": 15000,
+  "has_sentiment_model": true
+}

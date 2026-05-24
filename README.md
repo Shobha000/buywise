@@ -1,7 +1,7 @@
  
 # 🔮 BuyWise
 ### AI-Based Real-Time Review Monitoring & Analysis System
-> Final Year B.Tech CSE Project
+ 
 
 ---
 
@@ -92,6 +92,4 @@ buywise-ai/
 
 ---
 
-## 👥 Team
-
-B.Tech CSE Final Year Project — Team of 4
+ 

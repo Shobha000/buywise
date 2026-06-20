@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Backend (FastAPI)
 
@@ -47,7 +47,7 @@ Dashboard will be live at: **http://localhost:3000**
 
 ---
 
-## 🧠 ML Pipeline
+## ML Pipeline
 
 | Task | Model | Fallback |
 |---|---|---|

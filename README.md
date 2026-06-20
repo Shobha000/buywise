@@ -60,7 +60,7 @@ Dashboard will be live at: **http://localhost:3000**
 
 ---
 
-## 📡 API Reference
+## API Reference
 
 | Method | Endpoint | Description |
 |---|---|---|
@@ -74,7 +74,7 @@ Dashboard will be live at: **http://localhost:3000**
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 buywise-ai/

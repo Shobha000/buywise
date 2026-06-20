@@ -1,5 +1,5 @@
  
-# 🔮 BuyWise
+# BuyWise
 ### AI-Based Real-Time Review Monitoring & Analysis System
  
 
